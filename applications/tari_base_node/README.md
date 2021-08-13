@@ -19,7 +19,7 @@ relatively simple.
 Available commands are: 
 help, version, get-chain-metadata, list-peers, reset-offline-peers, ban-peer, unban-peer, list-connections, list-headers, 
 check-db, calc-timing, discover-peer, get-block, search-utxo, search-kernel, search-stxo, get-mempool-stats, 
-get-mempool-state, whoami, get-state-info, quit, exit
+get-mempool-state, whoami, get-state-info, quit, exit, restart, level, search-bxo, search-gqeq
 ```
 
 
